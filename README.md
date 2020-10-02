@@ -1,4 +1,4 @@
-# demonstration application
+# A Demonstration Application
 
 This is our May 2015 top neural network for large-scale object recognition. It has been trained to recognize most typical home indoor/outdoor objects in our daily life. It was trained with more that 10 M images on a private dataset. It can serve as good pair of eyes for your machines, robots, drones and all your wonderful creations!
 
